@@ -1,0 +1,15 @@
+C:\Users\VADIRAJ\source\repos\BuyNSell-master\BuyNSell\bin\Debug\BuyNSell.exe.config
+C:\Users\VADIRAJ\source\repos\BuyNSell-master\BuyNSell\bin\Debug\BuyNSell.exe
+C:\Users\VADIRAJ\source\repos\BuyNSell-master\BuyNSell\bin\Debug\BuyNSell.pdb
+C:\Users\VADIRAJ\source\repos\BuyNSell-master\BuyNSell\obj\Debug\BuyNSell.csprojAssemblyReference.cache
+C:\Users\VADIRAJ\source\repos\BuyNSell-master\BuyNSell\obj\Debug\BuyNSell.Form1.resources
+C:\Users\VADIRAJ\source\repos\BuyNSell-master\BuyNSell\obj\Debug\BuyNSell.Form2.resources
+C:\Users\VADIRAJ\source\repos\BuyNSell-master\BuyNSell\obj\Debug\BuyNSell.Properties.Resources.resources
+C:\Users\VADIRAJ\source\repos\BuyNSell-master\BuyNSell\obj\Debug\BuyNSell.csproj.GenerateResource.cache
+C:\Users\VADIRAJ\source\repos\BuyNSell-master\BuyNSell\obj\Debug\BuyNSell.csproj.CoreCompileInputs.cache
+C:\Users\VADIRAJ\source\repos\BuyNSell-master\BuyNSell\obj\Debug\BuyNSell.exe
+C:\Users\VADIRAJ\source\repos\BuyNSell-master\BuyNSell\obj\Debug\BuyNSell.pdb
+C:\Users\VADIRAJ\source\repos\BuyNSell-master\BuyNSell\bin\Debug\Database3.mdf
+C:\Users\VADIRAJ\source\repos\BuyNSell-master\BuyNSell\bin\Debug\Database3_log.ldf
+C:\Users\VADIRAJ\source\repos\BuyNSell-master\BuyNSell\obj\Debug\BuyNSell.Form3.resources
+C:\Users\VADIRAJ\source\repos\BuyNSell-master\BuyNSell\obj\Debug\BuyNSell.MyProfile_UserControl.resources
